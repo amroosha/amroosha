@@ -43,9 +43,3 @@ Machine Learning Engineer and Computer Science graduate from Cairo University (F
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amroosha&show_icons=true&theme=tokyonight&hide_border=true" alt="Omar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amroosha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
