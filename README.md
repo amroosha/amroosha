@@ -1,10 +1,11 @@
 # Omar Ez-Eldin Abdullah
+**Computer Science Graduate (Cairo University) AI department**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/omar-ez-eldin-amroosha/))
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amroosha)
 [![Email](https://img.shields.io/badge/Email-omarfayed241@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarfayed241@gmail.com)
 
-**Computer Science Graduate (Cairo University)**AI department**.
+Machine Learning Engineer and Computer Science graduate from Cairo University (FCAI) specializing in Computer Vision and applied deep learning. Experienced in building automated vision pipelines from synthetic data generation and domain randomization to fine-grained visual classification and multi-stage object detection. Proficient in PyTorch, with a strong focus on data engineering, mitigating domain shift, and benchmarking model architectures for optimal latency and accuracy trade-offs.
 
 ---
 
@@ -18,7 +19,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
 ### AI & Machine Learning Stack
 
@@ -31,7 +31,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
 
 ### Frontend & Tooling Stack
 
