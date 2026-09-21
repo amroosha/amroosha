@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80">
-  <text x="50%" y="60" text-anchor="middle"
-        font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="64" font-weight="700" fill="#9B59B6">
-    Amroosha
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="80" viewBox="0 0 520 80">
+  <text x="260" y="62" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <tspan font-size="26" font-weight="400" fill="#808080">known as&#160;</tspan><tspan font-size="64" font-weight="700" fill="#9B59B6">Amroosha</tspan>
   </text>
 </svg>

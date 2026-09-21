@@ -8,7 +8,7 @@
 <h1 align="center">
   Hi, I'm <span>Omar Ez-Eldin</span>
   <br/>
-  <img src="./amroosha.svg" alt="Amroosha" height="70" />
+  <img src="./Amroosha.svg" alt="also known as Amroosha" height="70" />
 </h1>
 
 **My name is Omar Ez-Eldin, also known as Amroosha** I like building AI powered applications, Some are for fun, while others tend to be more professional and I tend to spend way too much time trying to perfect them.
