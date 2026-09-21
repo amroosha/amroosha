@@ -5,7 +5,19 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amroosha)
 [![Email](https://img.shields.io/badge/Email-omarfayed241@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarfayed241@gmail.com)
 
-Machine Learning Engineer and Computer Science graduate from Cairo University (FCAI) specializing in Computer Vision and applied deep learning. Experienced in building automated vision pipelines from synthetic data generation and domain randomization to fine-grained visual classification and multi-stage object detection. Proficient in PyTorch, with a strong focus on data engineering, mitigating domain shift, and benchmarking model architectures for optimal latency and accuracy trade-offs.
+<h1 align="center">
+  Hi, I'm <span>Omar Ez-Eldin</span>
+  <br/>
+  <img src="./amroosha.svg" alt="Amroosha" height="70" />
+</h1>
+
+**My name is Omar Ez-Eldin, also known as Amroosha** I like building AI powered applications, Some are for fun, while others tend to be more professional and I tend to spend way too much time trying to perfect them.
+I like reading and learning in general, it doesn't have to be AI related or even computer science related at all, there is a thrill of being capable to do something you couldn't do before, or to know something that can genuinely help you or someone else one day.
+
+If i am not studying or learning or just got burnout in general, I am a gamer at heart, so I would be playing every now and then to maintain a balanced life between work/learning/relaxation.
+
+**Balance in life is the most important aspect, too much of anything is bad and too little of everything is also bad, so make sure you give it your all in maintaining a balanced lifestyle**
+
 
 ---
 
@@ -42,4 +54,3 @@ Machine Learning Engineer and Computer Science graduate from Cairo University (F
 ![Nmap](https://img.shields.io/badge/Nmap-002B36?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
-
