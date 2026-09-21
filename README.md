@@ -1,7 +1,7 @@
 # Omar Ez-Eldin Abdullah
 **Computer Science Graduate (Cairo University) AI department**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/omar-ez-eldin-amroosha/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ez-eldin-amroosha/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/amroosha)
 [![Email](https://img.shields.io/badge/Email-omarfayed241@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omarfayed241@gmail.com)
 
@@ -11,12 +11,13 @@
   <img src="./Amroosha.svg" alt="also known as Amroosha" height="70" />
 </h1>
 
-**My name is Omar Ez-Eldin, also known as Amroosha** I like building AI powered applications, Some are for fun, while others tend to be more professional and I tend to spend way too much time trying to perfect them.
-I like reading and learning in general, it doesn't have to be AI related or even computer science related at all, there is a thrill of being capable to do something you couldn't do before, or to know something that can genuinely help you or someone else one day.
+I build AI-powered applications. Some are just for fun, while others are more professional in nature. I'm a perfectionist, so I tend to spend a lot of time on unbounded tasks, but when there's a deadline, I deliver the best result within the given time constraint.
 
-If i am not studying or learning or just got burnout in general, I am a gamer at heart, so I would be playing every now and then to maintain a balanced life between work/learning/relaxation.
+I love reading and learning in general. It doesn't have to be AI-related, or even computer science-related at all. There's a real thrill in being able to do something you couldn't do before, or in knowing something that might genuinely help you, or someone else, one day.
 
-**Balance in life is the most important aspect, too much of anything is bad and too little of everything is also bad, so make sure you give it your all in maintaining a balanced lifestyle**
+When I'm not studying, learning, or recovering from burnout, you'll find me gaming. I'm a gamer at heart, so I play every now and then to maintain a balanced life between work, learning, and relaxation.
+
+<img src="./Balance.svg" alt="Balance is the most important aspect of life. Too much of anything is bad, and too little of everything is also bad, so make sure you give it your all in maintaining a balanced lifestyle." width="100%" />
 
 
 ---
@@ -54,3 +55,41 @@ If i am not studying or learning or just got burnout in general, I am a gamer at
 ![Nmap](https://img.shields.io/badge/Nmap-002B36?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ---
+
+```
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠉⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣛⣯⣭⣿⠷⣶⣶⠍⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢟⣯⣷⣾⣿⣿⣿⢏⣵⣿⡟⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀   ⠀⠀⠀   ⠀⣼⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⣭⣾⣿⣿⣿⣿⣿⡿⢣⣿⣿⣿⢱⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣏⠰⢄⡉⠍⠛⣵⣿⣿⣿⣿⣿⣿⣿⣿⢣⣿⣿⣿⣿⢸⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⢿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣅⡒⠬⣍⣙⠛⠿⠿⣿⣿⣇⣿⣿⡿⣿⣿⠾⢛⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣼⣿⣶⣶⣤⣍⣁⠲⠦⢭⣙⡻⠿⢛⡩⢔⣈⣥⡐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠠⢍⠻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡏⠩⡉⠩⢛⠛⣼⣿⣿⡿⣿⣿⣿⣿⣿⠷⢒⠠⢐⡈⠀⠌⡉⣛⠛⠛⠀⠓⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⢀⠲⠸⡇⡈⠈⠁⢌⠻⣿⣿⣿
+⣿⣿⣿⣿⣿⣷⣦⣅⠲⠀⠬⢉⣙⠃⠛⠸⢛⠉⢀⣨⡄⣾⣿⣿⢸⡇⣆⢢⣤⣬⢠⠤⢲⣶⣌⢀⠁⢀⠈⠁⠀⠁⢠⠈⣷⣷⡁⡀⠀⠀⠀⠣⡙⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⢣⣿⣷⣶⣤⢩⡍⣭⣴⣾⣿⣿⠃⣿⣿⡏⢸⣿⢸⡸⣿⡟⣼⣷⡀⠙⣿⣿⣦⡰⡄⣬⣶⣶⣿⡇⣿⣿⣧⠁⠀⠀⠀⠀⠱⡈⢿
+⣿⣿⣿⣿⣿⣿⣿⡏⣾⣿⣿⢹⣿⢸⡇⣿⡇⢿⣿⣿⠀⢻⣿⡇⢸⣿⡎⣇⢿⡇⣿⣿⣿⣦⣌⠻⣿⣿⣿⢸⣿⣿⣿⣷⢸⣿⣿⣇⠀⠀⠀⡀⠀⠐⡈
+⣿⣿⣿⣿⣿⣿⡟⣼⣿⣿⡇⣾⡟⢸⡇⢹⡇⢸⣿⣿⠠⢸⢻⠇⢸⢻⣿⡸⡘⢹⣿⣿⣿⣿⣿⣷⣝⢿⣿⣇⣿⣿⣿⣿⡘⣿⣿⣿⣆⠀⠀⢃⠄⠈⣧
+⣿⣿⣿⣿⣿⡿⣱⣿⣿⣿⡇⣿⣷⢸⡇⠸⡇⠆⢻⡇⣦⠀⡎⠀⡆⡇⣿⣧⢣⢻⣿⣿⣿⣿⣿⣿⡿⠷⠝⠿⣿⣿⣿⣿⡇⣿⣿⣿⣿⣆⠀⠀⢆⠂⠸
+⣿⣿⣿⣿⣿⢣⣿⣿⣿⣿⢠⣿⣿⡼⡇⡂⠃⣶⣀⣃⣶⣤⣄⣤⣅⡀⠈⠙⠃⢊⣿⣭⣥⣴⣶⣶⡖⢲⠲⣦⢻⣿⣿⣿⡇⣿⣿⣿⣿⡟⡆⠀⠈⠀⠀
+⣿⣿⣿⣿⢇⣿⣿⣿⣿⣿⢸⣿⣿⣧⠱⠯⠐⠙⠈⠛⠐⠩⣭⠻⣿⣿⣿⣶⣿⣿⣿⡟⣉⠭⠂⠐⠂⠀⠊⠛⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣹⡄⠀⠀⢁
+⣿⣿⣿⢏⣼⣿⣿⣿⣿⣿⣸⣿⣿⣿⠸⣦⠰⣿⣀⡄⠉⡀⢀⢱⣿⣿⣿⣿⣿⣿⣿⡏⣡⢠⠈⢈⡆⢸⠇⣰⢸⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⡄⠀⠀
+⣿⣿⡟⣼⢹⣿⣿⣿⣿⣿⣿⣿⣿⢹⠀⢻⣷⣘⡦⠝⠚⠡⢾⣶⣿⣿⣿⣿⣿⣿⣿⣾⣿⠍⠑⣊⣴⠫⣐⣿⢸⣿⣿⣿⣿⢹⣿⡇⣿⣿⣿⢿⣿⣄⠀
+⣿⡟⣼⡏⣾⢿⣿⣿⣿⡟⣿⣿⣧⣾⠐⠸⣿⣿⣷⣿⣾⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣷⣌⣽⢾⣿⠇⢸⣿⡏⣿⣿⢸⣿⣿⢸⣿⣿⡇⣿⣏⢖
+⢏⣼⢟⢸⡟⣼⣿⣿⣿⡇⣿⣿⣿⣿⠈⠂⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⢘⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⡟⠀⠘⣿⢁⣿⣿⢸⣿⣿⡆⣿⣿⡇⢹⣿⡘
+⢞⣵⢧⣿⠇⣿⢹⣿⣿⠇⣿⣿⣿⣿⠀⠑⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⣿⢸⣿⡇⢸⣿⣿⡀⢻⣿⡇⠨⢿⣧
+⣿⡏⣾⡿⢠⣿⢸⣿⣿⠀⣿⣿⣿⢻⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠁⠀⠀⠀⣿⢸⣿⡇⣼⣿⣿⡇⢹⣿⡇⠀⠈⣿
+⡟⣼⢏⣾⢸⣿⠀⡏⣿⡄⣿⣿⣿⢸⡇⠈⣆⠀⠀⡙⢿⣿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠟⠁⠀⢀⣀⣴⢰⣿⣾⣿⡇⣼⡟⢿⢰⡀⢻⡇⣼⡄⢹
+⢜⣵⣿⣿⡸⡏⠀⡇⡟⠆⢹⣿⣿⡇⡇⣦⣼⣿⣶⣿⣷⣌⠛⢿⣿⣿⣿⣿⣿⣿⣿⡿⠟⣥⣾⣶⣾⣿⣿⣿⢸⡿⣿⣿⠃⢹⡇⢸⢸⣧⢸⡇⣿⣷⡘
+⣿⣿⣿⣿⣧⠳⠀⡇⣿⠀⢸⣿⣿⡇⠇⣿⣿⣿⣿⣿⡿⠛⠀⡂⢍⠻⢿⣿⠿⠛⠡⢰⠀⠛⠻⣿⣿⣿⣿⡿⣸⢰⣿⣿⠀⢸⢃⢸⣸⣿⢸⢱⣿⣿⣧
+⣿⣿⣿⣿⣿⣆⠀⠳⡸⢜⢸⣿⣿⣿⢸⢸⣿⣿⣿⣿⣧⡀⠀⠈⠈⠘⠠⠒⠒⠁⠁⠀⠀⠀⣰⣿⣿⣿⣿⡇⣇⢸⣿⡿⢀⠌⣾⢈⣿⣿⢄⣾⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣇⠀⣇⠹⠘⣿⣿⣿⢀⡞⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⠹⡸⣿⣿⡇⠀⣸⣿⣼⣿⣿⣾⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣆⣽⣆⠀⣿⣿⣿⢸⡰⢹⣿⣿⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⡟⢦⢇⣿⣿⠁⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠷⢸⣿⣿⡜⠓⠈⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⣿⢁⡾⣸⣿⡏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡿⢋⣭⣴⣶⣾⡜⣿⣿⡇⣿⣷⡠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢈⡁⣿⣿⢃⣛⣛⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⡟⣴⣿⣿⣿⣿⣿⣧⢻⣿⣇⢿⣿⣿⣿⡷⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⢸⣿⡟⣼⣿⣿⣿⣿⣷⣌⠻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⢁⣿⣿⣿⣿⣿⣿⣿⡜⣿⣿⢸⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⢀⣼⡀⠀⠀⠀⠀⠀⢀⣤⣾⣿⡇⣾⣿⢱⣿⣿⣿⣿⣿⣿⣿⣧⡙⣿⣿⣿⣿
+⣿⣿⣿⡟⣸⣿⣿⣯⡹⡟⣿⣿⣿⡸⣿⡎⣿⣿⣿⣿⣇⠀⠰⠄⠀⠀⣾⣿⡇⠀⠀⠀⠀⣴⣿⣿⣿⣿⢸⣿⢇⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿
+⣿⣿⡿⢱⣿⣿⣿⣿⣷⠀⣿⣿⣿⡷⢹⣷⠙⢿⡿⣿⣿⣧⣄⡀⠀⣸⣿⣿⡇⠀⠀⠀⣸⣿⣿⣿⣿⡇⣿⡟⣾⣿⣿⣿⣿⠟⣻⣿⣿⣿⣿⢸⣿⣿⣿
+```
