@@ -91,7 +91,7 @@ When I'm not studying, learning, or recovering from burnout, you'll find me gami
 
 ---
 
-<h2 align="center"><i>Braille Art    :D</i></h2>
+<h2 align="center"><i>Braille Art</i></h2>
 
 <p align="center">
   <img src="./BrailleArt.svg" alt="Braille art inside an animated frame" />
