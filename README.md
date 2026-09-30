@@ -78,7 +78,7 @@ When I'm not studying, learning, or recovering from burnout, you'll find me gami
     <td width="50%" align="center" valign="middle">
       <img src="https://komarev.com/ghpvc/?username=amroosha&color=blueviolet" alt="Profile views"/><br/>
       <img src="https://img.shields.io/github/followers/amroosha?style=for-the-badge&logo=github&logoColor=white&color=7C3AED" alt="GitHub followers"/><br/>
-      <img src="https://img.shields.io/github/stars/amroosha/amroosha?style=for-the-badge&logo=github&logoColor=white&color=7C3AED" alt="Stars on amroosha/amroosha"/><br/>
+      <img src="https://img.shields.io/github/stars/amroosha?style=for-the-badge&logo=github&logoColor=white&color=7C3AED" alt="Total stars across profile"/><br/>
       <img src="https://img.shields.io/github/last-commit/amroosha/amroosha?style=for-the-badge&logo=github&logoColor=white&color=7C3AED" alt="Last commit"/>
     </td>
   </tr>
